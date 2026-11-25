@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Make the AI Judge Laugh: Office Jokes](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a).
 
-> Our team-building exercise was trust falls. HR caught nobody, IT billed the floor for the impact, and management called it 'a successful soft landing with learnings.'
+> Our team-building exercise was trust falls. HR caught nobody, IT billed the floor for the impact, and management called it 'a successful soft landing with actionable learnings.'
 
 ## Run
 
